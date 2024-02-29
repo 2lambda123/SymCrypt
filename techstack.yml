@@ -2,7 +2,7 @@ repo_name: 2lambda123/SymCrypt
 report_id: e626a4c6253973f08f67a02b184a0d56
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:13:50+00:00'
+timestamp: '2024-02-29T19:20:50+00:00'
 requested_by: ccalik
 provider: github
 branch: main
@@ -73,7 +73,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/SymCrypt
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
